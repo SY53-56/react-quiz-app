@@ -26,8 +26,9 @@ It features multiple levels, score tracking, a restart option, and a dark/light 
 
 ## 📦 Installation & Setup
 
-1. **Clone the repository**
+### 1️⃣ Clone the repository
 
-   ```bas  
-  git clone https://github.com/SY53-56/react-quiz-app.git
-   cd react-quiz-app
+```bash
+git clone https://github.com/SY53-56/react-quiz-app.git
+cd react-quiz-app
+
